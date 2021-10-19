@@ -23,9 +23,9 @@ WiFiManager wm;
 #define BUTTON_PIN D7
 
 //----------------------Telegram-----------------------------------//
-#define BOTtoken "1706481568:AAHFt6IwFNI0bdQGi0NeZ-YWyIXVdTq6XJ0"  // BotFather'dan aldığınız TOKEN
-#define CHAT_ID "1894187067"   //// IDBOT üzerinden /getid mesajı ile aldığımız ID bilgimizi gireceğiz // ensar
-#define CHAT_ID_M "270919282"
+#define BOTtoken "**********"  // BotFather'dan aldığınız TOKEN
+#define CHAT_ID "**********"   //// IDBOT üzerinden /getid mesajı ile aldığımız ID bilgimizi gireceğiz
+#define CHAT_ID_M "*********"
 WiFiClientSecure clientTelegram;
 UniversalTelegramBot bot(BOTtoken, clientTelegram);
 //-----------------------------------------------------------------//
