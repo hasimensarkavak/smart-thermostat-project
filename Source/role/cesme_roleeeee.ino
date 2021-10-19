@@ -9,9 +9,9 @@
 #include <EEPROM.h>
 
 
-#define APP_KEY           "31e1ed4b-4a8f-40bd-bf48-0a8dc9c20836"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
-#define APP_SECRET        "375a0152-4505-4ba4-bafb-1ee01ed5a421-ccd1fcee-d094-453d-a0a3-111835a35434"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
-#define THERMOSTAT_ID     "60dc7bb95c24133d62c43b30"    // Should look like "5dc1564130xxxxxxxxxxxxxx"
+#define APP_KEY           "---------------------------"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
+#define APP_SECRET        "-----------------------------------"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
+#define THERMOSTAT_ID     "-------------------------------"    // Should look like "5dc1564130xxxxxxxxxxxxxx"
 
 #define RELAY_PIN D6
 #define BUTTON_PIN D7
