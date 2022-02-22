@@ -7,3 +7,4 @@ Can use with Sinricpro, Google Home and Apple Homekit
 
 ## Google Home
 * You can use it by connecting with sinricpro
+<img src="https://cdn.freelogovectors.net/svg07/google-home-logo.svg" alt="Google Home Logo" width="50" height="50" class="lazyloaded" data-ll-status="loaded">
