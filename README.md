@@ -6,7 +6,8 @@ Can use with Sinricpro, Google Home and Apple Homekit. You can also follow Teleg
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Apple_HomeKit_logo.svg" alt="Apple Home Logo" width="50" height="50" class="lazyloaded" data-ll-status="loaded">
 
 ## Sinricpro
-* You should add a thermostat to your sinricpro account and paste the necessary keys into the places in relay.ino.
+* You should add a thermostat to your sinricpro account 
+* And paste the necessary keys into the places in relay.ino.
 
 ## Google Home
 * You can use it by connecting with Sinricpro
