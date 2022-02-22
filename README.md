@@ -19,9 +19,9 @@ Can use with Sinricpro, Google Home and Apple Homekit. You can also follow Teleg
 
 ## Project Detail
 In this system, where 4 different houses are heated from the same combi boiler, every floor of each house was asked to be checked separately.
-* 1. House => 1 Floor
-* 2. House => 2 Floors
-* 3. House => 2 Floors
-* 4. House => 3 Floors
-* Total => 8 Floors
+* House 1 => 1 Floor
+* House 2 => 2 Floors
+* House 3 => 2 Floors
+* House 4 => 3 Floors
+* Total => 8 Floors;
 so, 
