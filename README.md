@@ -17,6 +17,16 @@ Can use with Sinricpro, Google Home and Apple Homekit. You can also follow Teleg
 * Dht22 Tempreature Sensor x8
 * Button x17
 
+## Tech/Framework Used
+* WiFiManager
+* ESP8266HTTPClient
+* ESP8266WebServer
+* EEPROM
+* SinricPro
+* UniversalTelegramBot
+* DHTesp
+* homekit
+
 ## Project Detail
 In this system, where 4 different houses are heated from the same combi boiler, every floor of each house was asked to be checked separately.
 * House 1 => 1 Floor
@@ -25,4 +35,6 @@ In this system, where 4 different houses are heated from the same combi boiler, 
 * House 4 => 3 Floors
 * Total => 8 Floors
 
-so, 
+So, we need 9 relay with main combi boiler and we need one tempreature sensor for every each floor, as a result we need 9 relay and 8 tempreature sensor
+
+User can install the sensor anywhere on the floor because all devices will communicate via wifi.
