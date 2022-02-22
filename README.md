@@ -23,6 +23,6 @@ In this system, where 4 different houses are heated from the same combi boiler, 
 * House 2 => 2 Floors
 * House 3 => 2 Floors
 * House 4 => 3 Floors
-* Total => 8 Floors ;
-* 
+* Total => 8 Floors
+
 so, 
