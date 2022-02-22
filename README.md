@@ -15,6 +15,20 @@ Can use with Sinricpro, Google Home and Apple Homekit. You can also follow Teleg
 ## Apple Home Kit
 * You can connect by entering the password you specified in the "thermostat_homekit.c" file
 
+## Project Detail
+In this system, where 4 different houses are heated from the same combi boiler, every floor of each house was asked to be checked separately.
+* House 1 => 1 Floor
+* House 2 => 2 Floors
+* House 3 => 2 Floors
+* House 4 => 3 Floors
+* Total => 8 Floors
+
+So, we need 9 relay with main combi boiler and we need one tempreature sensor for every each floor, as a result we need 9 relay and 8 tempreature sensor
+
+User can install the sensor anywhere on the floor because all devices will communicate via wifi. Relays on floors are server, main combi boiler and sensors are client
+
+* You can change the codes according to your own need
+
 ## Hardware Used
 * Esp8266 (NodeMCU etc.) x17
 * Relay x9
@@ -31,17 +45,3 @@ Can use with Sinricpro, Google Home and Apple Homekit. You can also follow Teleg
 * UniversalTelegramBot
 * DHTesp
 * homekit
-
-## Project Detail
-In this system, where 4 different houses are heated from the same combi boiler, every floor of each house was asked to be checked separately.
-* House 1 => 1 Floor
-* House 2 => 2 Floors
-* House 3 => 2 Floors
-* House 4 => 3 Floors
-* Total => 8 Floors
-
-So, we need 9 relay with main combi boiler and we need one tempreature sensor for every each floor, as a result we need 9 relay and 8 tempreature sensor
-
-User can install the sensor anywhere on the floor because all devices will communicate via wifi. Relays on floors are server, main combi boiler and sensors are client
-
-* You can change the codes according to your own need
